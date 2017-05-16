@@ -8,7 +8,7 @@ var cacheName = 'todoPWA-1.5'
 
 var filesToCache = [
 
-       '/',
+       '/Todo-app',
 
        '/index.html',
 
