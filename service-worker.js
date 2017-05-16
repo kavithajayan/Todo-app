@@ -8,13 +8,13 @@ var cacheName = 'todoPWA-1.5'
 
 var filesToCache = [
 
-       '/',
+       './',
 
-       '/index.html',
+       './index.html',
 
-       '/app.js',
+       './app.js',
 
-       '/styles.css'       
+       './styles.css'       
 
 ]
 
