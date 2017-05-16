@@ -1,7 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+}
 
 main {
-	margin: 0 auto 40px;
-	padding: 20px;
+	margin: 0 auto;
+	padding: 10px;
 	background-color: #fff;
 }
 /* Include the padding and border in an element's total width and height */
@@ -79,7 +83,7 @@ ul li.checked::before {
 /* Style the header */
 .header {
     background-color: sandybrown;
-    padding: 30px 40px;
+    padding: 30px 10px;
     color: white;
     text-align: center;
 }
