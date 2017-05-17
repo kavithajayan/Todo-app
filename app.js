@@ -4,4 +4,6 @@ if ('serviceWorker' in navigator) {
      .then(function() { 
        alert('Service Worker Registered'); 
      });
+} else {
+     alert('not Registered');
 }
