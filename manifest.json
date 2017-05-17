@@ -4,9 +4,9 @@
      "icons": [
        {
 
-          "src": "./icon.png",
+          "src": "./todoicon.png",
 
-          "sizes": "126×126",
+          "sizes": "48×48",
 
           "type": "image/png"
 
