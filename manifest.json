@@ -4,9 +4,9 @@
      "icons": [
        {
 
-          "src": "./images/android-chrome-192×192.png",
+          "src": "./images/android-chrome-144×144.png",
 
-          "sizes": "192×192",
+          "sizes": "144×144",
 
           "type": "image/png"
 
