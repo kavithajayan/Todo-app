@@ -29,11 +29,8 @@ self.addEventListener('install', function (e) {
                      console.log('[ServiceWorker] Caching app shell')
 
                      return cache.addAll(filesToCache)
-
               })
-
       )
-
 });
 
 self.addEventListener('activate', function(e) {
@@ -60,9 +57,6 @@ self.addEventListener('fetch', function (e) {
              caches.match(e.request).then(function (response) {
 
                      return response || fetch(e.request)
-
              })
-
        )
-
 });
